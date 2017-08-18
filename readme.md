@@ -22,7 +22,7 @@ To use this template, your computer needs:
 ### Setup
 
 ```bash
-git clone https://github.com/zurb/foundation-zurb-template projectname
+git clone https://github.com/jrelgin/prototype-template-fe projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
