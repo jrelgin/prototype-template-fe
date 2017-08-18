@@ -27,17 +27,7 @@
         // JavaScript to be fired on the home page, after the init JS
 
       }
-    },
-
-    'designer_step1_page' : {
-      init: function() {
-
-      },
-      finalize: function() {
-        // JavaScript to be fired on the home page, after the init JS
-
-      }
-    },
+    }
   };
 
   // The routing fires all common scripts, followed by the page specific scripts.
@@ -124,7 +114,7 @@
 /* ======================================================================== */
 
 // TIME OUT AND ADD REMOVE CLASS
-// 
+//
 // $( document ).ready(function() {
 //   setTimeout(function(){
 //     $("#loadScreen").addClass("done");
